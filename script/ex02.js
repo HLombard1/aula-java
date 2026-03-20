@@ -2,7 +2,8 @@ function regressiva() {
     let i=10
 
     for (i=10; i>0; i--) {
-        
+        alert(i)
     }
+    alert("lançamento iniciado!")
 
 }
