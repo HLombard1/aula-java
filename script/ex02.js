@@ -1,14 +1,8 @@
-console.log ("oi mundo");
+function regressiva() {
+    let i=10
 
- 
-
-
-
-function contagemRegressiva() {
-
-
-    for{
-        let i = 10; i > 0; i--
+    for (i=10; i>0; i--) {
+        
     }
 
 }
